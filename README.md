@@ -29,7 +29,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ULBRAGRAM é uma versão simplificada do Instagram, desenvolvida com o propósito de elucidar os conceitos fundamentais da programação web.
 
-- [Visit the online project](https://www.google.com/)
+- [Visite o projeto online](https://henriquediassilva.github.io/Ulbragram/)
 
 ## 🔖 Layout
 
